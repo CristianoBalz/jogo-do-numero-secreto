@@ -1,6 +1,6 @@
 (function () {
     const MIN_NUMERO = 1;
-    const MAX_NUMERO = 100;
+    const MAX_NUMERO = 50;
 
     const jogo = criarJogoDoNumeroSecreto(MIN_NUMERO, MAX_NUMERO);
     const inputChute = document.querySelector('input');
